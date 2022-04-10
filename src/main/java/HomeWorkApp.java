@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AQA_JAVA {
+public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
         checkSumSign();
